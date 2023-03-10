@@ -2,3 +2,4 @@
 
 Testowy tekst do ćwiczenia commitów !!!
 
+Zmiana dokonywana w first-branch
